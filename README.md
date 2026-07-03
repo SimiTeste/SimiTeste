@@ -1,79 +1,109 @@
-<!-- HEADER BANNER DINÂMICO -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type/waving&color=000000&height=180&section=header&text=Guilherme%20Simi&fontSize=50&fontAlignY=40&animation=fadeIn" alt="Banner" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Integration+Support+Expert;API+Developer" alt="Typing SVG" />
-</p>
+# 👋 Olá, eu sou Guilherme Simi Lopes
 
-<p align="center">
-  <a href="https://linkedin.com/in/guilhermesimi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+### 💻 Estudante de Ciência da Computação | Integração de Sistemas | QA | APIs | Dados
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Apaixonado+por+Tecnologia;Integração+de+Sistemas+%7C+QA+%7C+APIs;Sempre+aprendendo+algo+novo." />
+
+</div>
 
 ---
 
-## 🌌 Sobre Mim
+## 👨‍💻 Sobre mim
 
-<table align="center">
-  <tr>
-    <td width="55%">
-      <p>Sou estudante de Ciência da Computação focado no desenvolvimento de software, arquitetura limpa e integrações de sistemas de alta eficiência.</p>
-      <p>Atuo diretamente com suporte técnico avançado, análise de logs e consumo/estruturação de APIs.</p>
-      <p>🎨 Também me dedico à fotografia analógica/digital e ao estudo de interfaces minimalistas (UI/UX).</p>
-    </td>
-    <td width="45%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSimi&layout=compact&theme=onyx&hide_border=true&title_color=ffffff&text_color=aaaaaa" width="100%" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
+- 🎓 Estudante de **Ciência da Computação**
+- 💼 Atuo com **Integração, Suporte e Implantação de Sistemas**
+- 🚀 Interesse em **QA**, **Dados**, **APIs**, **Customer Success** e **Desenvolvimento Back-end**
+- 📚 Atualmente estudando **Python**, **HTML**, **CSS** e aprofundando conhecimentos em **Redes de Computadores**
 
 ---
 
-## 🛠️ Stack & Ferramentas
+## 🚀 Tecnologias
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,postman,git,github,vscode,linux,docker" alt="Minhas Habilidades" />
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" />
 
-## 🚀 Principais Projetos
-
-<!-- CARD DE PROJETO PREMIUM -->
-<table align="center" width="100%">
-  <tr>
-    <td width="100%">
-      <h3>💳 SimiBank</h3>
-      <p><i>Sistema de portfólio para uma plataforma bancária digital premium. Focado em uma experiência de usuário minimalista e integração eficiente de fluxos financeiros de simulação.</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=flat-square" alt="Status">
-        <img src="https://img.shields.io/badge/Tech-JavaScript%20%2F%20Python-141414?style=flat-square" alt="Tech">
-      </p>
-    </td>
-  </tr>
-</table>
+</div>
 
 ---
 
-## 📊 Estatísticas & Produtividade
+## 🛠 Ferramentas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeSimi&show_icons=true&theme=onyx&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeSimi&theme=onyx&hide_border=true&background=000000&sideNums=ffffff&sideLabels=aaaaaa&ring=ffffff&fire=ffffff" alt="GitHub Streak" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <!-- Gráfico de atividade semanal baseado nos seus commits reais -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeSimi&theme=react-dark&bg_color=000000&hide_border=true&color=ffffff" alt="Activity Graph" width="97%" />
-</p>
+<img src="https://skillicons.dev/icons?i=postman" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Movidesk-0066CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AnyDesk-EF443B?style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 📈 Meu Gráfico de Contribuições
+## 📚 Atualmente estudando
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GuilhermeSimi/GuilhermeSimi/main/profile-summary-card-output/onyx/2-most-commit-language.svg" alt="Contribuições" onerror="this.style.display='none'"/>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,git" />
+
+</div>
+
+- Python
+- HTML5
+- CSS3
+- Git & GitHub
+- APIs REST
+- Testes de Software
+- Redes de Computadores
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SimiTeste&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimiTeste&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Sequência de Contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SimiTeste&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌎 Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/guilhermesimilopes/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:guilherme.lopes@icloud.com">
+<img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Obrigado por visitar meu perfil!
+
+*"A tecnologia transforma ideias em soluções. Estou sempre aprendendo e evoluindo para construir as próximas."*
+
+</div>
