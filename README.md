@@ -1,8 +1,6 @@
-
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type/waving&color=0d1117&height=180&section=header&text=Guilherme%20Simi&fontSize=45&fontAlignY=45&animation=fadeIn&fontColor=ffffff" alt="Guilherme Simi Banner" width="100%" />
-  <img width="1983" height="793" alt="ChatGPT Image 2 de jul  de 2026, 21_42_13" src="https://github.com/user-attachments/assets/a2937c47-dbde-40d1-8933-2d7285490635" />
+  <img src="https://github.com/user-attachments/assets/a2937c47-dbde-40d1-8933-2d7285490635" alt="Guilherme Simi Banner" width="100%" />
 </p>
 
 <!-- TYPING ANIMATION -->
