@@ -1,7 +1,6 @@
 <!-- HEADER BANNER & AVATAR -->
-
 <p align="center">
-render.vercel.app/type/cylinder&color=0d1117&height=150&section=header&text=Guilherme%20Simi&fontSize=40&fontAlignY=50&animation=fadeIn&fontColor=ffffff" alt="Banner Guilherme Simi" width="100%" />
+  <img src="https://capsule-render.vercel.app/type/cylinder&color=0d1117&height=150&section=header&text=Guilherme%20Simi&fontSize=40&fontAlignY=50&animation=fadeIn&fontColor=ffffff" alt="Banner Guilherme Simi" width="100%" />
 </p>
 
 <!-- TYPING ANIMATION -->
@@ -55,6 +54,17 @@ Estudante de **Ciência da Computação** buscando transição de carreira focad
 </p>
 
 <br />
+
+## 📊 Estatísticas do GitHub
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=SimiTeste&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=ffffff&text_color=8b949e&icon_color=58a6ff" alt="GitHub Metrics" width="100%" />
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimiTeste&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=ffffff&text_color=8b949e" alt="Most Used Languages" width="100%" />
+    </td>
   </tr>
 </table>
 
