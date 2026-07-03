@@ -62,16 +62,6 @@
 
 ---
 
-## 🔥 Sequência de Contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SimiTeste&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
 ## 🌎 Contato
 
 <div align="center">
