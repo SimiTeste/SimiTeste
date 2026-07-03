@@ -1,6 +1,10 @@
 <!-- HEADER BANNER & AVATAR -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type/cylinder&color=0d1117&height=150&section=header&text=Guilherme%20Simi&fontSize=40&fontAlignY=50&animation=fadeIn&fontColor=ffffff" alt="Banner Guilherme Simi" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0d1117&height=150&section=header&text=Guilherme%20Simi&fontSize=40&fontAlignY=50&animation=fadeIn&fontColor=ffffff" alt="Banner Guilherme Simi" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ce7eaea2-7fe9-4694-81b7-74b2908f3760" alt="Octocat" width="120" />
 </p>
 
 <!-- TYPING ANIMATION -->
