@@ -59,21 +59,6 @@ Estudante de **Ciência da Computação** buscando transição de carreira focad
 
 <br />
 
-## 📊 Estatísticas do GitHub
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=SimiTeste&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=ffffff&text_color=8b949e&icon_color=58a6ff" alt="GitHub Metrics" width="100%" />
-    </td>
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimiTeste&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=ffffff&text_color=8b949e" alt="Most Used Languages" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<br />
-
 ---
 <p align="center">
   <sub>Focado em qualidade de software, testes e melhoria contínua. Por Guilherme Simi Lopes.</sub>
