@@ -1,6 +1,10 @@
-<!-- HEADER BANNER -->
+<!-- HEADER BANNER & AVATAR -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a2937c47-dbde-40d1-8933-2d7285490635" alt="Guilherme Simi Banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ce7eaea2-7fe9-4694-81b7-74b2908f3760" alt="Octocat" width="120" style="border-radius: 50%;" />
 </p>
 
 <!-- TYPING ANIMATION -->
