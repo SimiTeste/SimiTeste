@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1500&color=FFFFFF&center=true&vCenter=true&width=500&lines=QA+Engineer+Student;Software+Testing+%26+Quality+Assurance;API+Testing+%26+Systems+Integration" alt="Typing QA Engineering Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Focado+em+QA+%26+Testes+de+Software;Suporte+T%C3%A9cnico+%26+Integra%C3%A7%C3%A3o" alt="Typing Roles" />
 </p>
 
 <p align="center">
@@ -19,42 +19,43 @@
 
 <br />
 
-## 🌌 Executive Summary
+## 🌌 Sobre Mim
 
-Graduando em **Ciência da Computação** com foco em **Engenharia de Qualidade de Software (QA) e Testes**. Possuo sólida experiência prática na validação de sistemas, análise rigorosa de incidentes em ambientes produtivos e garantia de estabilidade em integrações de software.
+Estudante de **Ciência da Computação** buscando transição de carreira focada para a área de **Quality Assurance (QA) e Testes de Software**. Tenho experiência prática no dia a dia com validações de sistemas e análise de incidentes.
 
-* **Quality Assurance & Testing:** Atuação focada no ciclo de testes, validações funcionais, análise minuciosa de logs para identificação de bugs (*troubleshooting*) e mapeamento de cenários de teste.
-* **API Testing & Integrations:** Domínio em testes de contratos e integrações de Web Services utilizando Postman, garantindo a integridade do fluxo de dados entre sistemas.
-* **Core Goal:** Desenvolver estratégias de testes automatizados e manuais, elevando o nível de confiabilidade e entrega de valor dos produtos digitais.
-* **Location:** Osasco, SP - Brasil 🇧🇷
+* **Experiência Atual:** Atuação com suporte técnico, implantação e integração de sistemas, atendimento ao cliente e melhoria de processos.
+* **Foco em Testes:** Prática em testes e validações de sistemas, análise de incidentes e uso de Web Services/APIs.
+* **Objetivo:** Oportunidade para atuar na área de QA / Testes, aplicando minha bagagem de suporte e validação.
+* **Localização:** Osasco, SP - Brasil 🇧🇷
 
 <br />
 
-## 🛠️ Tech Stack & QA Ecosystem
+## 🛠️ Tecnologias & Ferramentas
 
-### Test Automation & Development (Learning)
+### Tecnologias (Aprendendo)
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
-### API & Web Testing
+### Web & Versionamento
 <p align="left">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### Version Control & Tools
-<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+### Ferramentas de Trabalho
+<p align="left">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Movidesk-000000?style=for-the-badge" alt="Movidesk" />
   <img src="https://img.shields.io/badge/AnyDesk-EF443B?style=for-the-badge&logo=anydesk&logoColor=white" alt="AnyDesk" />
 </p>
 
 <br />
 
-## 📊 Analytics & Insights
+## 📊 Estatísticas do GitHub
 
 <table align="center" width="100%">
   <tr>
@@ -71,5 +72,5 @@ Graduando em **Ciência da Computação** com foco em **Engenharia de Qualidade 
 
 ---
 <p align="center">
-  <sub>Focused on software quality, bug prevention, and continuous integration. Powered by Guilherme Simi Lopes.</sub>
+  <sub>Focado em qualidade de software, testes e melhoria contínua. Por Guilherme Simi Lopes.</sub>
 </p>
