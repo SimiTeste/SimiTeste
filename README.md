@@ -1,87 +1,62 @@
 <div align="center">
 
-# 👋 Olá, eu sou Guilherme Simi Lopes
+# Guilherme Simi Lopes
 
-### 💻 Estudante de Ciência da Computação | Integração de Sistemas | QA | APIs | Dados
+### Computer Science Student • Systems Integration • Software Quality
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Apaixonado+por+Tecnologia;Integração+de+Sistemas+%7C+QA+%7C+APIs;Sempre+aprendendo+algo+novo." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+technology+that+solves+real+problems.;Systems+Integration+%7C+Software+Quality.;Always+learning." />
 
-</div>
+<br>
 
----
-
-## 👨‍💻 Sobre mim
-
-- 🎓 Estudante de **Ciência da Computação**
-- 💼 Atuo com **Integração, Suporte e Implantação de Sistemas**
-- 🚀 Interesse em **QA**, **Dados**, **APIs**, **Customer Success** e **Desenvolvimento Back-end**
-- 📚 Atualmente estudando **Python**, **HTML**, **CSS** e aprofundando conhecimentos em **Redes de Computadores**
-
----
-
-## 🚀 Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" />
-
-</div>
-
----
-
-## 🛠 Ferramentas
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=postman" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Movidesk-0066CC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AnyDesk-EF443B?style=for-the-badge"/>
-
-</div>
-
----
-
-## 📚 Atualmente estudando
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,html,css,git" />
-
-</div>
-
-- Python
-- HTML5
-- CSS3
-- Git & GitHub
-- APIs REST
-- Testes de Software
-- Redes de Computadores
-
----
-
-## 🌎 Contato
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/guilhermesimilopes/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/guilhermesimilopes">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:guilherme.lopes@icloud.com">
-<img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/E-mail-222222?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
 </div>
 
 ---
 
+## About
+
+I'm a Computer Science student currently working with **Systems Integration, Technical Support and Software Deployment**.
+
+My daily work involves APIs, Web Services, incident analysis, system validation and process improvement, always focusing on delivering reliable solutions and a great customer experience.
+
+---
+
+## Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode"/>
+
+</p>
+
+---
+
+## Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Movidesk-0052CC?style=flat-square">
+<img src="https://img.shields.io/badge/AnyDesk-EF443B?style=flat-square">
+
+</p>
+
+---
+
 <div align="center">
 
-### ⭐ Obrigado por visitar meu perfil!
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SimiTeste&show_icons=true&theme=transparent&hide_border=true"/>
 
-*"A tecnologia transforma ideias em soluções. Estou sempre aprendendo e evoluindo para construir as próximas."*
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimiTeste&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
